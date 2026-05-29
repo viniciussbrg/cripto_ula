@@ -52,18 +52,3 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 4. **O que observar:**
    * O texto original digitado fluirá pelo circuito.
    * O display **TTY de Saída** imprimirá imediatamente o caractere já processado de acordo com o algoritmo selecionado nas chaves `SEL`.
-
----
-
-## 🧪 Roteiro Prático de Teste (Exemplo: Palavra "Gemini")
-
-Para validar o funcionamento completo e demonstrar a reversibilidade exigida, configure a chave de deslocamento do César como **3** e a chave do XOR como **0x0F**, coloque o pino `CryptDecrypt` em **0** (Encrypt), mude o seletor `SEL` e digite `Gemini`:
-
-* **Modo XOR (`SEL=00`):** O TTY exibirá o texto codificado `Hjbfaf`. 
-  * *Para reverter:* Mude `CryptDecrypt` para **1**, clique no Teclado e digite `Hjbfaf`. O TTY restaurará `Gemini`.
-* **Modo César (`SEL=01`):** O TTY exibirá o texto codificado `Jhplql`.
-  * *Para reverter:* Mude `CryptDecrypt` para **1**, clique no Teclado e digite `Jhplql`. O TTY restaurará `Gemini`.
-* **Modo Permutação (`SEL=11`):** O TTY exibirá o texto embaralhado `XRV ^`.
-  * *Para reverter:* Mude `CryptDecrypt` para **1**, clique no Teclado e digite o conteúdo embaralhado para ver `Gemini` reaparecer no display.
-
----

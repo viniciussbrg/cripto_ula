@@ -42,6 +42,7 @@ Para que o Teclado (Keyboard) e a Tela (TTY) funcionem de forma sincronizada atr
 
 ### 3. Configurando as Chaves Estáticas
 Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circuito `main`:
+* **Seletor de Códificação:** Definir qual codificação irá ser utilizada modificando o componente "SEL" seguindo a tabela apresentada acima no módulo "**Algoritmos Implementados**"
 * **Chave do XOR / Deslocamento de César:** Altere os pinos de entrada binária de 8 bits para definir a chave (Ex: `00001111` para XOR ou `00000011` para deslocamento de 3 posições no César).
 * **Pino CryptDecrypt (Modo):** Deixe em **0** para Criptografar (Encrypt) ou mude para **1** para Descriptografar (Decrypt).
 

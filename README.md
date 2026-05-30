@@ -1,4 +1,3 @@
-<img width="1216" height="613" alt="image" src="https://github.com/user-attachments/assets/762b818d-8752-4c24-be40-edee24a05752" /># 🔐 Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
 
 Este projeto consiste no desenvolvimento de uma Unidade Lógica e Aritmética (ULA / ALU) especializada em criptografia e descriptografia de dados em tempo real, modelada e simulada utilizando o software **Logisim**. 
 
@@ -76,3 +75,4 @@ Criptografia:
 
 Descriptografia:
 
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/fffd1c49-0651-401e-8711-82254fe2945d" />

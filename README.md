@@ -1,6 +1,6 @@
-# Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
+# 🔐 Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
 
-Este projeto consiste no desenvolvimento de uma Unidade Lógica e Aritmética (ULA / ALU) especializada em criptografia e descriptografia de dados em tempo real, modelada e simulada utilizando o software **Logisim (versão 2.7.1)**. 
+Este projeto consiste no desenvolvimento de uma Unidade Lógica e Aritmética (ULA / ALU) especializada em criptografia e descriptografia de dados em tempo real, modelada e simulada utilizando o software **Logisim**. 
 
 O sistema foi desenhado de forma totalmente modularizada, garantindo a separação limpa entre os blocos de entrada de dados, o núcleo de processamento criptográfico e as saídas textuais.
 
@@ -42,7 +42,7 @@ Para que o Teclado (Keyboard) e a Tela (TTY) funcionem de forma sincronizada atr
 
 ### 3. Configurando as Chaves Estáticas
 Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circuito `main`:
-* **Seletor de Códificação:** Definir qual codificação irá ser utilizada modificando o componente "SEL" seguindo a tabela apresentada acima no módulo "**Algoritmos Implementados**"
+* **Seletor de Códificação:** Definir qual codificação irá ser utilizada modificando o componente "**SEL**" seguindo a tabela apresentada acima no módulo "**Algoritmos Implementados**"
 * **Chave do XOR / Deslocamento de César:** Altere os pinos de entrada binária de 8 bits para definir a chave (Ex: `00001111` para XOR ou `00000011` para deslocamento de 3 posições no César).
 * **Pino CryptDecrypt (Modo):** Deixe em **0** para Criptografar (Encrypt) ou mude para **1** para Descriptografar (Decrypt).
 

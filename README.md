@@ -66,3 +66,4 @@ Criptografia:
 
 Descriptografia
 
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/90be244b-80b7-4b20-a38c-1d108fe92280" />

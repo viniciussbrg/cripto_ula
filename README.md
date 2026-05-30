@@ -1,3 +1,4 @@
+# 🔐 Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
 
 Este projeto consiste no desenvolvimento de uma Unidade Lógica e Aritmética (ULA / ALU) especializada em criptografia e descriptografia de dados em tempo real, modelada e simulada utilizando o software **Logisim**. 
 

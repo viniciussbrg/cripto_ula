@@ -58,7 +58,7 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 ## 📄 Exemplos de teste de Criptografia e Descriptografia
 
-1. Exemplo para **XOR (SEL = 00)** com chave criptográfica igual a 00001111:
+#### 1. Exemplo para **XOR (SEL = 00)** com chave criptográfica igual a 00001111:
 
 ### Criptografia:
 
@@ -71,7 +71,7 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 
 
-2. Exemplo para **Cifra de César (SEL = 01)** com chave criptográfica igual a 3 (00000011):
+#### 2. Exemplo para **Cifra de César (SEL = 01)** com chave criptográfica igual a 3 (00000011):
 
 ### Criptografia:
 
@@ -84,7 +84,7 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 
 
-3. Exemplo para **Permutação (SEL = 11)**:
+#### 3. Exemplo para **Permutação (SEL = 11)**:
 
 ### Criptografia:
 

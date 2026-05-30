@@ -64,9 +64,11 @@ Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9e03d6d3-8fd9-40f7-92ce-043a8a4452e6" />
 
+
 Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/90be244b-80b7-4b20-a38c-1d108fe92280" />
+
 
 2. Exemplo para **Cifra de César (SEL = 01)** com chave criptográfica igual a 3 (00000011):
 
@@ -74,6 +76,18 @@ Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/a4aad7ad-460e-4a68-923f-38d5831a9cdf" />
 
+
 Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/fffd1c49-0651-401e-8711-82254fe2945d" />
+
+
+3. Exemplo para **Permutação (SEL = 11)**:
+
+Criptografia:
+
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/a076c35c-3ec7-4c37-ac3d-542c9a9a5e76" />
+
+
+Descriptografia:
+

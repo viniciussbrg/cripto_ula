@@ -1,4 +1,4 @@
-# 🔐 Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
+<img width="1216" height="613" alt="image" src="https://github.com/user-attachments/assets/762b818d-8752-4c24-be40-edee24a05752" /># 🔐 Cripto-ALU: Unidade Lógica e Aritmética Criptográfica
 
 Este projeto consiste no desenvolvimento de uma Unidade Lógica e Aritmética (ULA / ALU) especializada em criptografia e descriptografia de dados em tempo real, modelada e simulada utilizando o software **Logisim**. 
 
@@ -58,12 +58,21 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 ## 📄 Exemplos de teste de criptografia e descriptografia
 
-1. Exemplo para XOR (SEL = 00) com chave criptográfica igual a 00001111
+1. Exemplo para **XOR (SEL = 00)** com chave criptográfica igual a 00001111:
 
 Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9e03d6d3-8fd9-40f7-92ce-043a8a4452e6" />
 
-Descriptografia
+Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/90be244b-80b7-4b20-a38c-1d108fe92280" />
+
+2. Exemplo para **Cifra de César (SEL = 01)** com chave criptográfica igual a 3 (00000011):
+
+Criptografia:
+
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/a4aad7ad-460e-4a68-923f-38d5831a9cdf" />
+
+Descriptografia:
+

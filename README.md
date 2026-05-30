@@ -12,7 +12,7 @@ O sistema foi desenhado de forma totalmente modularizada, garantindo a separaç�
 
 ---
 
-## 🛠️ Algoritmos Implementados
+## 💻 Algoritmos Implementados
 
 O circuito possui um seletor de 2 bits (`SEL[1:0]`) que define qual das quatro operações lógicas ou aritméticas será executada sobre o caractere digitado (8 bits/ASCII):
 
@@ -25,7 +25,7 @@ O circuito possui um seletor de 2 bits (`SEL[1:0]`) que define qual das quatro o
 
 ---
 
-## 🚀 Passo a Passo: Como Usar e Testar o Programa
+## 🗺️ Passo a Passo: Como Usar e Testar o Programa
 
 Siga rigorosamente as instruções abaixo para executar a simulação e verificar a reversibilidade dos algoritmos.
 
@@ -56,14 +56,16 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 ---
 
-## 📄 Exemplos de teste de criptografia e descriptografia
+## 📄 Exemplos de teste de Criptografia e Descriptografia
 
 
 1. Exemplo para **XOR (SEL = 00)** com chave criptográfica igual a 00001111:
 
+
 Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9e03d6d3-8fd9-40f7-92ce-043a8a4452e6" />
+
 
 
 Descriptografia:
@@ -79,6 +81,7 @@ Criptografia:
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/a4aad7ad-460e-4a68-923f-38d5831a9cdf" />
 
 
+
 Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/fffd1c49-0651-401e-8711-82254fe2945d" />
@@ -90,6 +93,7 @@ Descriptografia:
 Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/188984b2-e30d-4587-b559-87791d120512" />
+
 
 
 Descriptografia:

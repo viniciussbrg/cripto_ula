@@ -62,7 +62,7 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 Criptografia:
 
-<img width="1237" height="640" alt="image" src="https://github.com/user-attachments/assets/254a50a1-d110-4868-8e46-cd89c9bf8e7d" />
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9e03d6d3-8fd9-40f7-92ce-043a8a4452e6" />
 
 Descriptografia
 

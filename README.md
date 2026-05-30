@@ -53,3 +53,16 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 4. **O que observar:**
    * O texto original digitado fluirá pelo circuito.
    * O display **TTY de Saída** imprimirá imediatamente o caractere já processado de acordo com o algoritmo selecionado nas chaves `SEL`.
+
+---
+
+## 📄 Exemplos de teste de criptografia e descriptografia
+
+1. Exemplo para XOR (SEL = 00) com chave criptográfica igual a 00001111
+
+Criptografia:
+
+<img width="1237" height="640" alt="image" src="https://github.com/user-attachments/assets/254a50a1-d110-4868-8e46-cd89c9bf8e7d" />
+
+Descriptografia
+

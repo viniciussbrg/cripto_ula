@@ -64,12 +64,9 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9e03d6d3-8fd9-40f7-92ce-043a8a4452e6" />
 
-
 ### Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/90be244b-80b7-4b20-a38c-1d108fe92280" />
-
-
 
 ### 2. Exemplo para **Cifra de César (SEL = 01)** com chave criptográfica igual a 3 (00000011):
 
@@ -77,19 +74,25 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/a4aad7ad-460e-4a68-923f-38d5831a9cdf" />
 
-
 ### Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/fffd1c49-0651-401e-8711-82254fe2945d" />
 
+### 3. Exemplo para **Inversão de Bits (SEL = 10)**
 
+### Criptografia:
 
-### 3. Exemplo para **Permutação (SEL = 11)**:
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/82b53a10-ea06-4876-8c22-537a68c439dd" />
+
+### Descriptografia:
+
+<img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/ec7b1572-8551-4867-b9b3-37d91b6141c3" />
+
+### 4. Exemplo para **Permutação (SEL = 11)**:
 
 ### Criptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/188984b2-e30d-4587-b559-87791d120512" />
-
 
 ### Descriptografia:
 

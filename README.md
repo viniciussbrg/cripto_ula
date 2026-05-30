@@ -56,7 +56,7 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 ---
 
-## 📄 Exemplos de teste de Criptografia e Descriptografia
+## ✔️ Exemplos de teste de Criptografia e Descriptografia
 
 ### 1. Exemplo para **XOR (SEL = 00)** com chave criptográfica igual a 00001111:
 
@@ -97,3 +97,10 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 ### Descriptografia:
 
 <img width="1212" height="632" alt="image" src="https://github.com/user-attachments/assets/9cc2e259-234a-4ddd-92e5-e3952f0cacbd" />
+
+---
+
+## 📄 Documentação do Projeto
+
+Abaixo segue a documentação técnica do circuito desenvolvido:
+

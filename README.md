@@ -107,3 +107,11 @@ Abaixo segue a documentação técnica do circuito desenvolvido:
 [📘 Documentação Técnica - Cripto-ULA](https://github.com/viniciussbrg/cripto_ula/blob/main/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica%20-%20Cripto%20ULA.pdf)
 
 ---
+
+## 📽️Vídeo explicativo sobre o Projeto
+
+Abaixo segue o link do Youtube para assistir o vídeo explicativo sobre o circuito desenvolvido:
+
+[📼 Vídeo Explicativo - Cripto-ULA](https://www.youtube.com/watch?v=-6cEAIlpnnc)
+
+---

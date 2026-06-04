@@ -14,7 +14,7 @@ O sistema foi desenhado de forma totalmente modularizada, garantindo a separaç�
 
 ## 💻 Algoritmos Implementados
 
-O circuito possui um seletor de 2 bits (`SEL[1:0]`) que define qual das quatro operações lógicas ou aritméticas será executada sobre o caractere digitado (8 bits/ASCII):
+O circuito possui um seletor de 2 bits (`SEL[1:0]`) que define qual das quatro operações lógicas ou aritméticas será executada sobre o caractere digitado (ASCII):
 
 | SEL[1:0] | Algoritmo | Descrição |
 | :---: | :--- | :--- |

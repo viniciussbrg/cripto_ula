@@ -104,3 +104,6 @@ Antes de digitar, defina os parâmetros nos pinos de entrada localizados no circ
 
 Abaixo segue a documentação técnica do circuito desenvolvido:
 
+[📘 Documentação Técnica - Cripto-ULA](https://github.com/viniciussbrg/cripto_ula/blob/main/Documenta%C3%A7%C3%A3o%20T%C3%A9cnica%20-%20Cripto%20ULA.pdf)
+
+---
